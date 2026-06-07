@@ -78,13 +78,7 @@ Documenting every Linux command and concept I learn — with examples, use cases
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AhmerIjaz639&show_icons=true&theme=dark&bg_color=1a1a2e&title_color=c9a96e&icon_color=c9a96e&text_color=9090a0&border_color=2a2a4e&hide_border=false" alt="Ahmer's GitHub Stats"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmerIjaz639&layout=compact&theme=dark&bg_color=1a1a2e&title_color=c9a96e&text_color=9090a0&border_color=2a2a4e" alt="Top Languages"/>
-
-</div>
 
 <div align="center">
 
