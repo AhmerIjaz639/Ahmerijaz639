@@ -74,20 +74,27 @@ Documenting every Linux command and concept I learn — with examples, use cases
 
 [View Repository](https://github.com/AhmerIjaz639)
 
+---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhmerIjaz639&style=flat-square&color=c9a96e&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/AhmerIjaz639?style=flat-square&color=c9a96e&labelColor=1a1a2e&label=Followers)
-![Stars](https://img.shields.io/github/stars/AhmerIjaz639?style=flat-square&color=c9a96e&labelColor=1a1a2e&label=Total+Stars)
+<div align="center">
 
-| Stat | Value |
-|---|---|
-| Public Repositories | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AhmerIjaz639&query=public_repos&style=flat-square&color=c9a96e&labelColor=1a1a2e&label=Repos) |
-| Followers | ![Followers](https://img.shields.io/github/followers/AhmerIjaz639?style=flat-square&color=c9a96e&labelColor=1a1a2e&label=Followers) |
-| Profile Views | ![Views](https://komarev.com/ghpvc/?username=AhmerIjaz639&style=flat-square&color=c9a96e&label=Views) |
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AhmerIjaz639&show_icons=true&theme=dark&bg_color=1a1a2e&title_color=c9a96e&icon_color=c9a96e&text_color=9090a0&border_color=2a2a4e&hide_border=false" alt="Ahmer's GitHub Stats"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmerIjaz639&layout=compact&theme=dark&bg_color=1a1a2e&title_color=c9a96e&text_color=9090a0&border_color=2a2a4e" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AhmerIjaz639&theme=dark&background=1a1a2e&ring=c9a96e&fire=c9a96e&currStreakLabel=c9a96e&border=2a2a4e)](https://git.io/streak-stats)
+
+</div>
 
 ---
+
+
 
 
 
