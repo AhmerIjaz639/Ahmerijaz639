@@ -72,7 +72,7 @@ Documenting every Linux command and concept I learn — with examples, use cases
 
 [View Repository](https://github.com/AhmerIjaz639/Linux-)
 
-[View Repository](https://github.com/AhmerIjaz639)
+
 
 ---
 
