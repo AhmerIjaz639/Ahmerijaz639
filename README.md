@@ -75,8 +75,6 @@ Documenting every Linux command and concept I learn — with examples, use cases
 [View Repository](https://github.com/AhmerIjaz639)
 
 
----
-
 ## GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmerIjaz639&style=flat-square&color=c9a96e&label=Profile+Views)
@@ -91,12 +89,6 @@ Documenting every Linux command and concept I learn — with examples, use cases
 
 ---
 
-## Connect
 
-[![Email](https://img.shields.io/badge/Email-ahmerijaz639%40gmail.com-c9a96e?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:ahmerijaz639@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmer--ijaz-c9a96e?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/ahmer-ijaz-08a60237b/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0314--4300502-c9a96e?style=flat-square&logo=whatsapp&logoColor=white&labelColor=1a1a2e)](https://wa.me/923144300502)
-
----
 
 Lahore, Pakistan · COMSATS University 
