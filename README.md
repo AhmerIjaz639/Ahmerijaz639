@@ -38,14 +38,13 @@ class AhmerIjaz:
 ![Streamlit](https://img.shields.io/badge/Streamlit-1a1a2e?style=for-the-badge&logo=streamlit&logoColor=c9a96e)
 
 ---
-
 ## Projects
 
 **Police Station Management System** — Python · FastAPI · MySQL · JWT · RBAC
 
 Comprehensive MIS for law enforcement. Manages FIRs, suspects, officers, and case lifecycles through a secured RESTful API with JWT authentication and role-based access control.
 
-[View Project](https://github.com/AhmerIjaz639)
+[View Project](https://github.com/AhmerIjaz639/PoliceStationDBMS)
 
 ---
 
@@ -53,7 +52,7 @@ Comprehensive MIS for law enforcement. Manages FIRs, suspects, officers, and cas
 
 Tournament bracket system using binary trees, queues, and modular OOP architecture. Handles team registration, automated scheduling, and score tracking.
 
-[View Project](https://github.com/AhmerIjaz639)
+[View Project](https://github.com/AhmerIjaz639/sport-tournament-organizer-football)
 
 ---
 
@@ -61,44 +60,34 @@ Tournament bracket system using binary trees, queues, and modular OOP architectu
 
 Desktop GUI application with full CRUD for tasks and notes, demonstrating encapsulation, inheritance, polymorphism, and abstraction.
 
-[View Project](https://github.com/AhmerIjaz639)
+[View Project](https://github.com/AhmerIjaz639/task-manager-java-)
 
 ---
 
-**Investment Tracker & EMI Calculator** — Python · MySQL · OOP
 
-Financial tool with portfolio tracking and loan amortisation schedule generation backed by a normalised MySQL database.
-
-[View Project](https://github.com/AhmerIjaz639)
-
----
 
 ## Linux Daily Learning
 
 Documenting every Linux command and concept I learn — with examples, use cases, and notes. Updated daily as part of my structured path toward Linux system administration and cybersecurity.
 
+[View Repository](https://github.com/AhmerIjaz639/Linux-)
+
 [View Repository](https://github.com/AhmerIjaz639)
 
-| Module | Status |
-|---|---|
-| File System & Navigation | Done |
-| Users, Groups & Permissions | Done |
-| Process Management | In Progress |
-| Networking Commands | In Progress |
-| Shell Scripting | Upcoming |
-| Cybersecurity Tools | Upcoming |
 
 ---
 
-## Cybersecurity Goals
+## GitHub Stats
 
-| Area | Current | Target |
-|---|---|---|
-| Linux Sysadmin | Intermediate | Advanced |
-| Network Security | Beginner | Intermediate |
-| Python for Cyber | Beginner | Intermediate |
-| Ethical Hacking | Concepts | Practical |
-| DevSecOps | Exploring | Entry-level |
+![Profile Views](https://komarev.com/ghpvc/?username=AhmerIjaz639&style=flat-square&color=c9a96e&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/AhmerIjaz639?style=flat-square&color=c9a96e&labelColor=1a1a2e&label=Followers)
+![Stars](https://img.shields.io/github/stars/AhmerIjaz639?style=flat-square&color=c9a96e&labelColor=1a1a2e&label=Total+Stars)
+
+| Stat | Value |
+|---|---|
+| Public Repositories | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/AhmerIjaz639&query=public_repos&style=flat-square&color=c9a96e&labelColor=1a1a2e&label=Repos) |
+| Followers | ![Followers](https://img.shields.io/github/followers/AhmerIjaz639?style=flat-square&color=c9a96e&labelColor=1a1a2e&label=Followers) |
+| Profile Views | ![Views](https://komarev.com/ghpvc/?username=AhmerIjaz639&style=flat-square&color=c9a96e&label=Views) |
 
 ---
 
@@ -110,4 +99,4 @@ Documenting every Linux command and concept I learn — with examples, use cases
 
 ---
 
-Lahore, Pakistan · COMSATS University · Open for Internships — Summer 2026
+Lahore, Pakistan · COMSATS University 
