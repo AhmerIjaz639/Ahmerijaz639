@@ -22,7 +22,7 @@ class AhmerIjaz:
     }
 
     goal      = "DevSecOps / Security Engineering / Ethical Hacking"
-    available = True  # Open for on-site internship in Lahore
+    available = True  # Open for all type internship in Lahore
 ```
 
 ---
