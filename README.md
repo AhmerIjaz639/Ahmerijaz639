@@ -104,8 +104,8 @@ status: open_to_internships
 
 <table width="100%">
 <tr><td width="12%" align="center">🟢</td><td width="53%">Computer Fundamentals & OS Security</td><td width="35%" align="center"><b>Complete</b></td></tr>
-<tr><td align="center">🟡</td><td>Linux Mastery & System Administration</td><td align="center"><b>In Progress</b></td></tr>
-<tr><td align="center">⚪</td><td>Networking & Protocol Analysis</td><td align="center">Upcoming</td></tr>
+<tr><td align="center">🟡</td><td>Linux Mastery & System Administration</td><td align="center"><b>Complete</b></td></tr>
+<tr><td align="center">⚪</td><td>Networking & Protocol Analysis</td><td align="center">In Progress</td></tr>
 <tr><td align="center">⚪</td><td>Python for Security</td><td align="center">Upcoming</td></tr>
 <tr><td align="center">⚪</td><td>Web Security & OWASP Top 10</td><td align="center">Upcoming</td></tr>
 <tr><td align="center">⚪</td><td>Active Directory & Enterprise Security</td><td align="center">Upcoming</td></tr>
