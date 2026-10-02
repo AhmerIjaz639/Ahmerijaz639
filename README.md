@@ -1,16 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:0f3460&height=220&section=header&text=AHMER%20IJAZ&fontSize=64&fontColor=c9a96e&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Cybersecurity%20Learner%20%E2%80%A2%20CS%20Student&descSize=17&descAlignY=58&descColor=9a9a9a"/
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=C9A96E&center=true&vCenter=true&random=false&width=650&lines=Building+Secure+Backends;Learning+Linux+%2B+Networking+%2B+Security;From+Developer+to+Security+Engineer;Breaking+Things+to+Learn+How+to+Fix+Them)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1026,50:1b2a6b,100:00b4d8&height=230&section=header&text=AHMER%20IJAZ&fontSize=64&fontColor=FFD54A&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Aspiring%20Pentester%20%E2%80%A2%20CCNA%20%E2%80%A2%20CS%20Student&descSize=17&descAlignY=58&descColor=E0F7FF"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=AhmerIjaz639&style=flat-square&color=1a1a2e&label=PROFILE+VIEWS" alt="views" height="26"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1200&color=FFD54A&center=true&vCenter=true&random=false&width=720&lines=Building+Backends+with+Node.js+%26+FastAPI;Learning+Networking+%2B+Linux+%2B+Security;Hackathon+Builder+%E2%80%A2+Regional+Selected+%F0%9F%8F%86;Open+Source+Enthusiast+%E2%80%A2+CNCF+Curious;Documenting+Everything+in+Public)](https://git.io/typing-svg)
+
+<br>
+
+<a href="https://ahmer-ijaz-portfolio.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-ahmer--ijaz--portfolio.vercel.app-FFD54A?style=for-the-badge&labelColor=0b1026" height="34"/></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=AhmerIjaz639&style=flat-square&color=00b4d8&label=PROFILE+VIEWS" alt="views" height="26"/>
 &nbsp;
 <a href="https://github.com/AhmerIjaz639?tab=followers">
-<img src="https://img.shields.io/github/followers/AhmerIjaz639?style=flat-square&color=1a1a2e&labelColor=0a0a0a&logo=github&logoColor=c9a96e&label=FOLLOWERS" height="26"/>
+<img src="https://img.shields.io/github/followers/AhmerIjaz639?style=flat-square&color=00b4d8&labelColor=0b1026&logo=github&logoColor=FFD54A&label=FOLLOWERS" height="26"/>
 </a>
 
 </div>
@@ -23,26 +28,37 @@
 
 ### `01.` About Me
 
-I'm a backend developer from **Lahore, Pakistan**, currently in my 4th semester of **BS Computer Science at COMSATS University**, deliberately steering my career toward **security engineering**.
+I'm a **CCNA-certified** computer science student from **Lahore, Pakistan**, in my 4th semester of **BS Computer Science at COMSATS University Islamabad (Lahore Campus)**. My main path is **backend development**, and I'm building a strong security foundation alongside it.
 
-My philosophy is simple — you can't secure what you don't understand how to build, and you can't truly build securely without understanding how it breaks. So I'm doing both: shipping backend systems with FastAPI and Python, while running a self-structured 24-week bootcamp into Linux, networking, and offensive/defensive security.
+My philosophy is simple: you can't secure what you don't understand how to build, and you can't build securely without understanding how it breaks. So I do both. I build database-backed apps with parameterized queries and environment-based secrets, I'm learning **Node.js + Express**, and I'm running a self-directed **24-week, 21-module cybersecurity bootcamp**.
 
-**Currently open to internships** in backend development, DevSecOps, or security-adjacent roles.
+Everything I learn is **documented publicly on GitHub**: CTF writeups, bootcamp notes, and project code.
+
+🏆 **Hackathon:** built **CareerOS AI** at the Bano Qabil Hackathon (Alibaba) and got **selected for the regional level**.
+🤝 **Ambassador** at **AI+compassion** and **IOY**.
+🌍 **Open source** enthusiast, interested in **CNCF projects**.
+
+**Open to internships** (on-site or remote in Lahore) in backend development, DevSecOps, SOC/security, networking, or VoIP/telecom, plus part-time open-source contribution.
 
 </td>
 <td width="40%" valign="top">
 
 ```yaml
 name: Ahmer Ijaz
-role: Backend Dev → Security Engineer
+role: Backend Developer
 base: Lahore, Pakistan
 education: BS CS @ COMSATS (Sem 4)
-focus:
-  - Linux System Administration
-  - Python for Cybersecurity
-  - Networking Fundamentals
-  - Blue Team Basics
-goal: DevSecOps / Security Engineering
+certified: CCNA (Cisco, 2026)
+ambassador:
+  - AI+compassion
+  - IOY
+achievement: Bano Qabil Hackathon
+              (Regional Selected)
+now_learning:
+  - JavaScript / Node.js / Express
+  - Networking & Protocols
+  - Bash (building projects)
+security_track: Module 4/21
 status: open_to_internships
 ```
 
@@ -56,173 +72,260 @@ status: open_to_internships
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=c9a96e" height="32"/>
-<img src="https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=c9a96e" height="32"/>
-<img src="https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=c9a96e" height="32"/>
-<img src="https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=c9a96e" height="32"/>
-<img src="https://img.shields.io/badge/JWT-0a0a0a?style=for-the-badge&logo=jsonwebtokens&logoColor=c9a96e" height="32"/>
+<img src="https://img.shields.io/badge/Python-14213d?style=for-the-badge&logo=python&logoColor=FFD54A" height="32"/>
+<img src="https://img.shields.io/badge/Java-14213d?style=for-the-badge&logo=openjdk&logoColor=FFD54A" height="32"/>
+<img src="https://img.shields.io/badge/Bash-14213d?style=for-the-badge&logo=gnubash&logoColor=FFD54A" height="32"/>
+<img src="https://img.shields.io/badge/SQL-14213d?style=for-the-badge&logo=mysql&logoColor=FFD54A" height="32"/>
 
-<img src="https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=c9a96e" height="32"/>
-<img src="https://img.shields.io/badge/Kali_Linux-0a0a0a?style=for-the-badge&logo=kalilinux&logoColor=c9a96e" height="32"/>
-<img src="https://img.shields.io/badge/Bash-0a0a0a?style=for-the-badge&logo=gnubash&logoColor=c9a96e" height="32"/>
-<img src="https://img.shields.io/badge/VMware-0a0a0a?style=for-the-badge&logo=vmware&logoColor=c9a96e" height="32"/>
+<img src="https://img.shields.io/badge/JavaScript_(learning)-14213d?style=for-the-badge&logo=javascript&logoColor=FFD54A" height="32"/>
+<img src="https://img.shields.io/badge/Node.js_(learning)-14213d?style=for-the-badge&logo=nodedotjs&logoColor=FFD54A" height="32"/>
+<img src="https://img.shields.io/badge/Express.js_(learning)-14213d?style=for-the-badge&logo=express&logoColor=FFD54A" height="32"/>
 
-<img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=c9a96e" height="32"/>
-<img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=c9a96e" height="32"/>
-<img src="https://img.shields.io/badge/Streamlit-0a0a0a?style=for-the-badge&logo=streamlit&logoColor=c9a96e" height="32"/>
-<img src="https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=c9a96e" height="32"/>
+<img src="https://img.shields.io/badge/FastAPI-14213d?style=for-the-badge&logo=fastapi&logoColor=FFD54A" height="32"/>
+<img src="https://img.shields.io/badge/MySQL-14213d?style=for-the-badge&logo=mysql&logoColor=FFD54A" height="32"/>
+<img src="https://img.shields.io/badge/YAML-14213d?style=for-the-badge&logo=yaml&logoColor=FFD54A" height="32"/>
+
+<img src="https://img.shields.io/badge/Linux-14213d?style=for-the-badge&logo=linux&logoColor=FFD54A" height="32"/>
+<img src="https://img.shields.io/badge/Kali_Linux-14213d?style=for-the-badge&logo=kalilinux&logoColor=FFD54A" height="32"/>
+<img src="https://img.shields.io/badge/Ubuntu-14213d?style=for-the-badge&logo=ubuntu&logoColor=FFD54A" height="32"/>
+<img src="https://img.shields.io/badge/VMware-14213d?style=for-the-badge&logo=vmware&logoColor=FFD54A" height="32"/>
+<img src="https://img.shields.io/badge/Wireshark-14213d?style=for-the-badge&logo=wireshark&logoColor=FFD54A" height="32"/>
+
+<img src="https://img.shields.io/badge/TryHackMe-14213d?style=for-the-badge&logo=tryhackme&logoColor=FFD54A" height="32"/>
+<img src="https://img.shields.io/badge/Git-14213d?style=for-the-badge&logo=git&logoColor=FFD54A" height="32"/>
+<img src="https://img.shields.io/badge/GitHub-14213d?style=for-the-badge&logo=github&logoColor=FFD54A" height="32"/>
+<img src="https://img.shields.io/badge/VS_Code-14213d?style=for-the-badge&logo=visualstudiocode&logoColor=FFD54A" height="32"/>
 
 </div>
 
 <br>
 
-### `03.` Core Competencies
+### `03.` Skill Levels
+
+| Skill | Level | Notes |
+|---|---|---|
+| 🐍 **Python** | `▰▰▰▱▱` Beginner → Intermediate | FastAPI backends, CareerOS AI, automation, security scripting |
+| ☕ **Java** | `▰▰▰▰▱` Intermediate | OOP and DSA (BS coursework + projects): queues, stacks, linked lists |
+| 🖥️ **Bash** | `▰▰▰▱▱` Intermediate | Building projects, including a system monitoring script |
+| 🗄️ **SQL / MySQL** | `▰▰▰▰▱` Intermediate | Normalization, views, triggers, stored procedures, parameterized queries |
+| 🟨 **JavaScript / Node.js / Express** | `▰▱▱▱▱` Learning | Client-side and server-side scripting |
+| 🌐 **Networking** | `▰▰▰▱▱` CCNA-certified | Subnetting, TCP/IP, OSI, VLANs, routing and switching |
+
+<br>
+
+### `04.` Core Competencies
 
 <div align="center">
 
 <table width="100%">
 <tr>
-<th align="left" width="50%">💻&nbsp;&nbsp;DEVELOPMENT</th>
-<th align="left" width="50%">🛡️&nbsp;&nbsp;SECURITY</th>
+<th align="left" width="33%">💻&nbsp;&nbsp;BACKEND</th>
+<th align="left" width="33%">🛡️&nbsp;&nbsp;SECURITY</th>
+<th align="left" width="34%">🌐&nbsp;&nbsp;NETWORKING</th>
 </tr>
-<tr><td>Object-Oriented Programming</td><td>Linux System Administration</td></tr>
-<tr><td>Data Structures & Algorithms</td><td>Process & Service Monitoring</td></tr>
-<tr><td>Database Design & Normalization</td><td>Permission & Privilege Management</td></tr>
-<tr><td>RESTful API Architecture</td><td>Log Analysis & IR Basics</td></tr>
-<tr><td>Authentication (JWT / RBAC)</td><td>Network Security Fundamentals</td></tr>
-<tr><td>Clean Code & Git Workflow</td><td>Security-Focused Scripting</td></tr>
+<tr><td>RESTful API design (FastAPI)</td><td>Linux fundamentals & administration</td><td>IP addressing & subnetting</td></tr>
+<tr><td>Node.js & Express (learning)</td><td>File permissions & privilege basics</td><td>OSI model & TCP/IP stack</td></tr>
+<tr><td>Client-side & server-side scripting (learning)</td><td>Process monitoring & log analysis</td><td>Routing, switching & VLANs</td></tr>
+<tr><td>Database design & normalization</td><td>CTF challenges & Kali Linux</td><td>Basic network security concepts</td></tr>
+<tr><td>Secure coding: parameterized queries, env-based secrets</td><td>Basic vulnerability assessment</td><td>Wireshark & Nmap (learning)</td></tr>
+<tr><td>Multi-agent AI apps (Gemini API)</td><td>Security audit scripting (Bash)</td><td>VoIP & telecom (interest)</td></tr>
 </table>
 
 </div>
 
 <br>
 
-### `04.` Cybersecurity Roadmap
+### `05.` Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| **CCNA** (IP addressing, subnetting, TCP/IP, OSI, routing, switching, VLANs, network security basics) | Cisco Networking Academy | 2026 |
+| **Inclusive Open Source Community Orientation (LFC102)** | The Linux Foundation | 2026 |
+| **Google Crash Course on Python** | Coursera | 2024 |
+
+<br>
+
+### `06.` Achievements & Community
+
+- 🏆 **Bano Qabil Hackathon (Alibaba):** built **[CareerOS AI](https://github.com/AhmerIjaz639/CareerOS-AI)**, a multi-agent career intelligence platform, and was **selected for the regional level**.
+- 🤝 **Ambassador, AI+compassion**
+- 🤝 **Ambassador, IOY**
+- 🌍 **Open Source:** completed the Linux Foundation's open-source community orientation (LFC102), learning how to contribute to CNCF projects. Open to part-time open-source contribution.
+
+<br>
+
+### `07.` Cybersecurity Roadmap
+
+> Self-directed bootcamp: **21 modules / 24 weeks**, target completion **March 2027**. Currently on **Module 4/21: Networking & Protocols**.
+> 📍 **[View the full live roadmap →](https://htmlpreview.github.io/?https://github.com/AhmerIjaz639/CyberSecurity/blob/main/Roadmap_prog/cyber.html)** · **[Bootcamp repo →](https://github.com/AhmerIjaz639/CyberSecurity)**
 
 <div align="center">
 
 <table width="100%">
-<tr><td width="12%" align="center">🟢</td><td width="53%">Computer Fundamentals & OS Security</td><td width="35%" align="center"><b>Complete</b></td></tr>
-<tr><td align="center">🟡</td><td>Linux Mastery & System Administration</td><td align="center"><b>Complete</b></td></tr>
-<tr><td align="center">⚪</td><td>Networking & Protocol Analysis</td><td align="center">In Progress</td></tr>
-<tr><td align="center">⚪</td><td>Python for Security</td><td align="center">Upcoming</td></tr>
-<tr><td align="center">⚪</td><td>Web Security & OWASP Top 10</td><td align="center">Upcoming</td></tr>
-<tr><td align="center">⚪</td><td>Active Directory & Enterprise Security</td><td align="center">Upcoming</td></tr>
-<tr><td align="center">⚪</td><td>SOC Operations & SIEM</td><td align="center">Upcoming</td></tr>
-<tr><td align="center">⚪</td><td>Penetration Testing</td><td align="center">Upcoming</td></tr>
-<tr><td align="center">⚪</td><td>Digital Forensics & Incident Response</td><td align="center">Upcoming</td></tr>
+<tr><td width="10%" align="center">🟢</td><td width="55%">Module 1: Computer & OS Fundamentals</td><td width="35%" align="center"><b>Complete</b></td></tr>
+<tr><td align="center">🟢</td><td>Module 2: Linux Mastery</td><td align="center"><b>Complete</b></td></tr>
+<tr><td align="center">⏭️</td><td>Module 3: Windows Internals & PowerShell</td><td align="center"><b>Skipped for now</b> (will revisit)</td></tr>
+<tr><td align="center">🟡</td><td>Module 4: Networking & Protocols</td><td align="center"><b>In Progress</b></td></tr>
+<tr><td align="center">⚪</td><td>Module 5: Python for Cybersecurity</td><td align="center">Upcoming</td></tr>
+<tr><td align="center">⚪</td><td>Modules 6-8: Git & Portfolio, Cryptography, Web Security & OWASP Top 10</td><td align="center">Upcoming</td></tr>
+<tr><td align="center">⚪</td><td>Modules 9-10: Active Directory, SOC & SIEM</td><td align="center">Upcoming</td></tr>
+<tr><td align="center">⚪</td><td>Modules 11-15: Pentesting, AD Attacks, DFIR, Malware Analysis, Threat Hunting</td><td align="center">Upcoming</td></tr>
+<tr><td align="center">⚪</td><td>Modules 16-19: Cloud, Docker & Kubernetes, Secure Coding + AI, CTF Training</td><td align="center">Upcoming</td></tr>
+<tr><td align="center">⚪</td><td>Modules 20-21: Red vs Blue Capstone, Interview Prep</td><td align="center">Upcoming</td></tr>
 </table>
 
 </div>
 
 <br>
 
-### `05.` Featured Projects
+### `08.` Currently Learning
+
+| Area | Progress |
+|---|---|
+| 🟨 **JavaScript, Node.js & Express.js** | Client-side and server-side scripting for backend development |
+| 🌐 **Networking & Protocols** | Bootcamp Module 4: TCP/IP, DNS, HTTP/HTTPS, Wireshark, Nmap |
+| 🖥️ **Bash** | Building projects, including a system monitoring script |
+| 🏴 **CTFs: OverTheWire Bandit** | 12/34 levels solved, with a detailed public writeup for each |
+| 🎯 **TryHackMe** | Pre-Security path in progress |
+| ☁️ **Cloud-Init / Butane / Ignition** | Declarative config, immutable OS philosophy, atomic first-boot provisioning |
+
+<br>
+
+### `09.` Featured Projects
 
 <table width="100%">
+<tr>
+<td colspan="2" valign="top">
+
+**🤖 CareerOS AI** &nbsp;🏆 *Bano Qabil Hackathon, regional selected*
+<br><sub>Python · FastAPI · Google Gemini · Multi-Agent · HTML/CSS/JS</sub>
+
+A multi-agent career intelligence platform that gives evidence-based career guidance by analyzing your resume, GitHub profile, and target job requirements.
+
+- **5 specialized AI agents:** Resume Analyzer, GitHub Analyzer, Job Matcher, Skill Gap Detector, and a Master Agent
+- Career readiness score, skill-gap analysis, and a personalized roadmap
+- FastAPI REST backend with resume upload and the GitHub API as a data source
+
+**[→ View Project](https://github.com/AhmerIjaz639/CareerOS-AI)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🛡️ Cybersecurity Labs & CTF Writeups**
+<br><sub>Linux · Bash · Kali · OverTheWire · TryHackMe</sub>
+
+Public writeups for every challenge solved, covering Linux navigation, permissions, SSH, text processing, encoded data analysis, and privilege escalation basics. Backed by a local VMware lab with Kali Linux and Ubuntu.
+
+**[→ View on GitHub](https://github.com/AhmerIjaz639/CyberSecurity)**
+
+</td>
+<td width="50%" valign="top">
+
+**📚 6-Month Cybersecurity Bootcamp**
+<br><sub>Self-directed · 21 modules · 24 weeks</sub>
+
+A structured roadmap through Linux, networking, web security, Python for security, SIEM, and ethical hacking, with notes and progress tracked publicly.
+
+**[→ Live Roadmap](https://htmlpreview.github.io/?https://github.com/AhmerIjaz639/CyberSecurity/blob/main/Roadmap_prog/cyber.html)** · **[→ Repo](https://github.com/AhmerIjaz639/CyberSecurity)**
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
 **🚔 Police Station Management System**
-<br><sub>Python · FastAPI · MySQL · JWT · RBAC</sub>
+<br><sub>Python · MySQL</sub>
 
-Full-stack backend MIS for law enforcement — manages FIRs, suspects, officers, and case lifecycles through a secured RESTful API.
+Full-stack MIS for FIRs, staff, funds, and case tracking, deployed live for non-technical users.
 
-- Complete CRUD operations
-- JWT-based authentication
-- Role-based access control (RBAC)
-- Relational database design
+- All DB access through **parameterized queries** (SQL injection prevention)
+- Normalized schema with views, stored procedures & triggers
+- Credentials via **environment variables**, never hardcoded
 
-**[→ View Project](https://github.com/AhmerIjaz639)**
+**[→ View Project](https://github.com/AhmerIjaz639/PoliceStationDBMS)**
 
 </td>
+<td width="50%" valign="top">
+
+**☁️ Cloud-Init / YAML / Butane Writeups**
+<br><sub>YAML · Cloud-Init · Butane · Ignition</sub>
+
+Notes and working examples on core directives (users, write_files, packages, runcmd, systemd units), plus a partial **Cloud-Init → Butane mapping reference**.
+
+- Manual Cloud-Init to Butane conversions to verify understanding
+- Next step: keep expanding directive coverage
+
+**[→ View on GitHub](https://github.com/AhmerIjaz639?tab=repositories)**
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **⚽ Sports Tournament Organizer**
 <br><sub>Java · DSA · OOP</sub>
 
-Tournament bracket engine built on binary trees, queues, and modular OOP architecture.
+Tournament bracket and scheduling system built on queues, stacks, and linked lists, with automated team registration, match scheduling, and score tracking in a modular OOP design.
 
-- Binary tree bracket system
-- Queue-based scheduling
-- Automated matchmaking
-- Score tracking & results
-
-**[→ View Project](https://github.com/AhmerIjaz639)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📝 Task Manager + Notes App**
-<br><sub>Java · JavaFX · OOP</sub>
-
-Desktop GUI application with full CRUD for tasks and notes, built around clean OOP principles.
-
-- JavaFX GUI interface
-- Full task & notes CRUD
-- Encapsulation, inheritance, polymorphism
-
-**[→ View Project](https://github.com/AhmerIjaz639)**
+**[→ View on GitHub](https://github.com/AhmerIjaz639?tab=repositories)**
 
 </td>
 <td width="50%" valign="top">
 
-**🔜 In the Pipeline**
-<br><sub>Security-focused builds, in progress</sub>
+**🌐 Portfolio & Python Projects**
+<br><sub>HTML · Python</sub>
 
-- 🛡️ Bash system monitoring script
-- 🔍 Python network scanner
-- 📊 Home SOC lab + SIEM dashboard
-- 📋 Vulnerability assessment report
-- 🔴 Penetration test report
+My personal portfolio site and a collection of Python practice projects.
 
-*Shipping throughout the bootcamp.*
+**[→ Portfolio](https://ahmer-ijaz-portfolio.vercel.app/)** · **[→ Python_projects](https://github.com/AhmerIjaz639/Python_projects)** · **[→ Source](https://github.com/AhmerIjaz639/AhmerIjaz_portfolio-)**
 
 </td>
 </tr>
 </table>
 
+**🔜 In the pipeline:** Bash system monitoring script *(in progress)* · Python network scanner · Node.js + Express backend project · Home SOC lab + SIEM dashboard · Vulnerability assessment report · Penetration test report
+
 <br>
 
-### `06.` GitHub Activity
+### `10.` GitHub Activity
 
 <div align="center">
 
-<img width="97%" src="https://streak-stats.demolab.com?user=AhmerIjaz639&theme=dark&background=0a0a0a00&ring=c9a96e&fire=c9a96e&currStreakLabel=c9a96e&sideLabels=c9a96e&currStreakNum=ffffff&sideNums=ffffff&dates=6b6b6b&border=1a1a2e&border_radius=10"/>
-
-<br><br>
-
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmerIjaz639&bg_color=0a0a0a00&color=c9a96e&line=c9a96e&point=ffffff&area_color=1a1a2e&area=true&hide_border=true&radius=10"/>
+<img width="97%" src="https://streak-stats.demolab.com?user=AhmerIjaz639&theme=dark&background=0b102600&ring=00D4FF&fire=FFD54A&currStreakLabel=FFD54A&sideLabels=00D4FF&currStreakNum=ffffff&sideNums=ffffff&dates=9ec5d6&border=1b2a6b&border_radius=10"/>
 
 </div>
 
 <br>
 
-### `07.` Career Direction
+### `11.` Career Direction
+
+**🎯 Primary path: Backend Developer**
 
 ```
-  Backend Developer  ──────→  DevSecOps Engineer  ──────→  Security Engineer
-         │                          │                             │
-   FastAPI + APIs             Build + Secure               Red Team / Blue Team
-   Database Design           CI/CD Pipelines                  Pentesting
-   Authentication          Container Security                 IR & DFIR
-                             Cloud Security
+  Backend Developer  ──────→  DevSecOps / SOC Analyst  ──────→  Security Engineer
+         │                            │                               │
+  Node.js + Express            Build + Secure                  Red Team / Blue Team
+  FastAPI + REST APIs         Linux & Networking                   Pentesting
+  Databases & Auth           CI/CD & Cloud-Native                  IR & DFIR
 ```
+
+**Currently learning (backend):** JavaScript · Node.js · Express.js · client-side & server-side scripting
 
 <div align="center">
 
-*I believe in building systems — and knowing how to break them.*
+*I believe in building systems, and knowing how to break them.*
 
 </div>
 
 **Short-term targets**
 
-- 🎯 Complete the 24-week cybersecurity bootcamp
-- 🎯 Ship 12 portfolio projects
-- 🎯 Land an internship in backend / security
-- 🎯 Contribute to an open-source security tool
+- 🎯 Build and ship backend projects with Node.js + Express and FastAPI
+- 🎯 Complete the 24-week cybersecurity bootcamp (target: March 2027)
+- 🎯 Finish OverTheWire Bandit and the TryHackMe Pre-Security path
+- 🎯 Land an internship in backend / security / networking
+- 🎯 Contribute to an open-source CNCF or security project
 
 <br>
 
@@ -230,14 +333,15 @@ Desktop GUI application with full CRUD for tasks and notes, built around clean O
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=c9a96e)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=c9a96e)](https://github.com/AhmerIjaz639)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=c9a96e)](mailto:YOUR-EMAIL@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD54A?style=for-the-badge&logo=vercel&logoColor=0b1026)](https://ahmer-ijaz-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-14213d?style=for-the-badge&logo=linkedin&logoColor=FFD54A)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-14213d?style=for-the-badge&logo=tryhackme&logoColor=FFD54A)](https://tryhackme.com/p/YOUR-THM-USERNAME)
+[![Email](https://img.shields.io/badge/Email-14213d?style=for-the-badge&logo=gmail&logoColor=FFD54A)](mailto:ahmerijaz639@gmail.com)
 
 📍 Lahore, Pakistan &nbsp;•&nbsp; 🎓 COMSATS University, Lahore Campus &nbsp;•&nbsp; 🟢 Open to internships
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:0f3460&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1026,50:1b2a6b,100:00b4d8&height=120&section=footer"/>
 
 </div>
