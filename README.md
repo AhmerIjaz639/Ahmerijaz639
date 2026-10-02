@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:0f3460&height=220&section=header&text=AHMER%20IJAZ&fontSize=64&fontColor=c9a96e&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Cybersecurity%20Learner%20%E2%80%A2%20CS%20Student&descSize=17&descAlignY=58&descColor=9a9a9a"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:0f3460&height=220&section=header&text=AHMER%20IJAZ&fontSize=64&fontColor=c9a96e&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Cybersecurity%20Learner%20%E2%80%A2%20CS%20Student&descSize=17&descAlignY=58&descColor=9a9a9a"/
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=C9A96E&center=true&vCenter=true&random=false&width=650&lines=Building+Secure+Backends;Learning+Linux+%2B+Networking+%2B+Security;From+Developer+to+Security+Engineer;Breaking+Things+to+Learn+How+to+Fix+Them)](https://git.io/typing-svg)
