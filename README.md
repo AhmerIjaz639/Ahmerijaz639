@@ -197,7 +197,7 @@ status: open_to_internships
 <tr>
 <td colspan="2" valign="top">
 
-**🤖 CareerOS AI** &nbsp;🏆 *Bano Qabil Hackathon, regional selected*
+** CareerOS AI** &nbsp; *Bano Qabil Hackathon, regional selected*
 <br><sub>Python  · Google Gemini · Multi-Agent · HTML/CSS/JS</sub>
 
 A multi-agent career intelligence platform that gives evidence-based career guidance by analyzing your resume, GitHub profile, and target job requirements.
@@ -213,7 +213,7 @@ A multi-agent career intelligence platform that gives evidence-based career guid
 <tr>
 <td width="50%" valign="top">
 
-**🛡️ Cybersecurity Labs & CTF Writeups**
+** Cybersecurity Labs & CTF Writeups**
 <br><sub>Linux · Bash · Kali · OverTheWire · TryHackMe</sub>
 
 Public writeups for every challenge solved, covering Linux navigation, permissions, SSH, text processing, encoded data analysis, and privilege escalation basics. Backed by a local VMware lab with Kali Linux and Ubuntu.
@@ -235,7 +235,7 @@ A structured roadmap through Linux, networking, web security, Python for securit
 <tr>
 <td width="50%" valign="top">
 
-**🚔 Police Station Management System**
+** Police Station Management System**
 <br><sub>Python · MySQL</sub>
 
 Full-stack MIS for FIRs, staff, funds, and case tracking, deployed live for non-technical users.
@@ -249,7 +249,7 @@ Full-stack MIS for FIRs, staff, funds, and case tracking, deployed live for non-
 </td>
 <td width="50%" valign="top">
 
-**☁️ Cloud-Init / YAML / Butane Writeups**
+** Cloud-Init / YAML / Butane Writeups**
 <br><sub>YAML · Cloud-Init · Butane · Ignition (Just Start for LFX open source )</sub>
 
 Notes and working examples on core directives (users, write_files, packages, runcmd, systemd units), plus a partial **Cloud-Init → Butane mapping reference**.
@@ -264,7 +264,7 @@ Notes and working examples on core directives (users, write_files, packages, run
 <tr>
 <td width="50%" valign="top">
 
-**⚽ Sports Tournament Organizer**
+** Sports Tournament Organizer**
 <br><sub>Java · DSA · OOP</sub>
 
 Tournament bracket and scheduling system built on queues, stacks, and linked lists, with automated team registration, match scheduling, and score tracking in a modular OOP design.
@@ -274,7 +274,7 @@ Tournament bracket and scheduling system built on queues, stacks, and linked lis
 </td>
 <td width="50%" valign="top">
 
-**🌐 Portfolio & Python Projects**
+** Portfolio & Python Projects**
 <br><sub>HTML · Python</sub>
 
 My personal portfolio site and a collection of Python practice projects.
@@ -301,7 +301,7 @@ My personal portfolio site and a collection of Python practice projects.
 
 ### `11.` Career Direction
 
-**🎯 Primary path: Backend Developer**
+** Primary path: Backend Developer**
 
 ```
   Backend Developer  ──────→  DevSecOps / SOC Analyst  ──────→  Security Engineer
@@ -338,7 +338,7 @@ My personal portfolio site and a collection of Python practice projects.
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-14213d?style=for-the-badge&logo=tryhackme&logoColor=FFD54A)](https://tryhackme.com/p/YOUR-THM-USERNAME)
 [![Email](https://img.shields.io/badge/Email-14213d?style=for-the-badge&logo=gmail&logoColor=FFD54A)](mailto:ahmerijaz639@gmail.com)
 
-📍 Lahore, Pakistan &nbsp;•&nbsp; 🎓 COMSATS University, Lahore Campus &nbsp;•&nbsp; 🟢 Open to internships
+📍 Lahore, Pakistan &nbsp;•&nbsp;  COMSATS University, Lahore Campus &nbsp;•&nbsp; 🟢 Open to internships
 
 <br>
 
