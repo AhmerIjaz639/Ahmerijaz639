@@ -182,12 +182,12 @@ status: open_to_internships
 
 | Area | Progress |
 |---|---|
-| 🟨 **JavaScript, Node.js & Express.js** | Client-side and server-side scripting for backend development |
-| 🌐 **Networking & Protocols** | Bootcamp Module 3: TCP/IP, DNS, HTTP/HTTPS, Wireshark, Nmap |
-| 🖥️ **Bash** | Building projects, including a system monitoring script |
-| 🏴 **CTFs: OverTheWire Bandit** | 12/34 levels solved, with a detailed public writeup for each |
-| 🎯 **TryHackMe** | Pre-Security path in progress |
-| ☁️ **Cloud-Init / Butane / Ignition** | Declarative config, immutable OS philosophy, atomic first-boot provisioning |
+|  **JavaScript, Node.js & Express.js** | Client-side and server-side scripting for backend development |
+|  **Networking & Protocols** | Bootcamp Module 3: TCP/IP, DNS, HTTP/HTTPS, Wireshark, Nmap |
+|  **Bash** | Building projects, including a system monitoring script |
+|  **CTFs: OverTheWire Bandit** | 12/34 levels solved, with a detailed public writeup for each |
+|  **HackTheBox** | Pre-Security path in progress |
+|  **Cloud-Init / Butane / Ignition** | Declarative config, immutable OS philosophy, atomic first-boot provisioning |
 
 <br>
 
