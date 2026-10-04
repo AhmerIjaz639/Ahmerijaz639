@@ -104,12 +104,12 @@ status: open_to_internships
 
 | Skill | Level | Notes |
 |---|---|---|
-| 🐍 **Python** | `▰▰▰▱▱` Beginner → Intermediate |  CareerOS AI, Numpy, Pandas , OOP |
-| ☕ **Java** | `▰▰▰▰▱` Intermediate | OOP and DSA (BS coursework + projects): queues, stacks, linked lists |
-| 🖥️ **Bash** | `▰▰▰▱▱` Intermediate | Building projects, including a system monitoring script |
-| 🗄️ **SQL / MySQL** | `▰▰▰▰▱` Intermediate | Normalization, views, triggers, stored procedures, parameterized queries |
-| 🟨 **JavaScript / Node.js / Express** | `▰▱▱▱▱` Learning | Client-side and server-side scripting |
-| 🌐 **Networking** | `▰▰▰▱▱` CCNA-certified | Subnetting, TCP/IP, OSI, VLANs, routing and switching |
+|  **Python** | `▰▰▰▱▱` Beginner → Intermediate |  CareerOS AI, Numpy, Pandas , OOP |
+|  **Java** | `▰▰▰▰▱` Intermediate | OOP and DSA (BS coursework + projects): queues, stacks, linked lists |
+|  **Bash** | `▰▰▰▱▱` Intermediate | Building projects, including a system monitoring script |
+|  **SQL / MySQL** | `▰▰▰▰▱` Intermediate | Normalization, views, triggers, stored procedures, parameterized queries |
+|  **JavaScript / Node.js / Express** | `▰▱▱▱▱` Learning | Client-side and server-side scripting |
+|  **Networking** | `▰▰▰▱▱` CCNA-certified | Subnetting, TCP/IP, OSI, VLANs, routing and switching |
 
 <br>
 
@@ -119,9 +119,9 @@ status: open_to_internships
 
 <table width="100%">
 <tr>
-<th align="left" width="33%">💻&nbsp;&nbsp;BACKEND</th>
-<th align="left" width="33%">🛡️&nbsp;&nbsp;SECURITY</th>
-<th align="left" width="34%">🌐&nbsp;&nbsp;NETWORKING</th>
+<th align="left" width="33%">&nbsp;&nbsp;BACKEND</th>
+<th align="left" width="33%">&nbsp;&nbsp;SECURITY</th>
+<th align="left" width="34%">&nbsp;&nbsp;NETWORKING</th>
 </tr>
 <tr><td>Linux fundamentals & administration</td><td>IP addressing & subnetting</td></tr>
 <tr><td>Node.js & Express (learning)</td><td>File permissions & privilege basics</td><td>OSI model & TCP/IP stack</td></tr>
@@ -157,7 +157,7 @@ status: open_to_internships
 ### `07.` Cybersecurity Roadmap
 
 > Self-directed bootcamp: **21 modules / 24 weeks**, target completion **March 2027**. Currently on **Module 4/21: Networking & Protocols**.
-> 📍 **[View the full live roadmap →](https://htmlpreview.github.io/?https://github.com/AhmerIjaz639/CyberSecurity/blob/main/Roadmap_prog/cyber.html)** · **[Bootcamp repo →](https://github.com/AhmerIjaz639/CyberSecurity)**
+>  **[View the full live roadmap →](https://htmlpreview.github.io/?https://github.com/AhmerIjaz639/CyberSecurity/blob/main/Roadmap_prog/cyber.html)** · **[Bootcamp repo →](https://github.com/AhmerIjaz639/CyberSecurity)**
 
 <div align="center">
 
@@ -165,7 +165,7 @@ status: open_to_internships
 <tr><td width="10%" align="center">🟢</td><td width="55%">Module 1: Computer & OS Fundamentals</td><td width="35%" align="center"><b>Complete</b></td></tr>
 <tr><td align="center">🟢</td><td>Module 2: Linux Mastery</td><td align="center"><b>Complete</b></td></tr>
 <tr><td align="center">🟡</td><td>Module 3: Networking & Protocols</td><td align="center"><b>In Progress</b></td></tr>
-<tr><td align="center">⏭️</td><td>Module 4: Windows Internals & PowerShell</td><td align="center"></td></tr>
+<tr><td align="center">⚪</td><td>Module 4: Windows Internals & PowerShell</td><td align="center"></td></tr>
 <tr><td align="center">⚪</td><td>Module 5: Python for Cybersecurity</td><td align="center">Upcoming</td></tr>
 <tr><td align="center">⚪</td><td>Modules 6-8: Git & Portfolio, Cryptography, Web Security & OWASP Top 10</td><td align="center">Upcoming</td></tr>
 <tr><td align="center">⚪</td><td>Modules 9-10: Active Directory, SOC & SIEM</td><td align="center">Upcoming</td></tr>
