@@ -123,7 +123,7 @@ status: open_to_internships
 <th align="left" width="33%">🛡️&nbsp;&nbsp;SECURITY</th>
 <th align="left" width="34%">🌐&nbsp;&nbsp;NETWORKING</th>
 </tr>
-<tr><td>RESTful API design (FastAPI)</td><td>Linux fundamentals & administration</td><td>IP addressing & subnetting</td></tr>
+<tr><td>Linux fundamentals & administration</td><td>IP addressing & subnetting</td></tr>
 <tr><td>Node.js & Express (learning)</td><td>File permissions & privilege basics</td><td>OSI model & TCP/IP stack</td></tr>
 <tr><td>Client-side & server-side scripting (learning)</td><td>Process monitoring & log analysis</td><td>Routing, switching & VLANs</td></tr>
 <tr><td>Database design & normalization</td><td>CTF challenges & Kali Linux</td><td>Basic network security concepts</td></tr>
@@ -149,7 +149,7 @@ status: open_to_internships
 
 - 🏆 **Bano Qabil Hackathon (Alibaba):** built **[CareerOS AI](https://github.com/AhmerIjaz639/CareerOS-AI)**, a multi-agent career intelligence platform, and was **selected for the regional level**.
 - 🤝 **Ambassador, AI+compassion**
-- 🤝 **Ambassador, IOY**
+- 🤝 **Ambassador, IOY(Internation Youth Conference**
 - 🌍 **Open Source:** completed the Linux Foundation's open-source community orientation (LFC102), learning how to contribute to CNCF projects. Open to part-time open-source contribution.
 
 <br>
@@ -164,8 +164,8 @@ status: open_to_internships
 <table width="100%">
 <tr><td width="10%" align="center">🟢</td><td width="55%">Module 1: Computer & OS Fundamentals</td><td width="35%" align="center"><b>Complete</b></td></tr>
 <tr><td align="center">🟢</td><td>Module 2: Linux Mastery</td><td align="center"><b>Complete</b></td></tr>
-<tr><td align="center">⏭️</td><td>Module 3: Windows Internals & PowerShell</td><td align="center"><b>Skipped for now</b> (will revisit)</td></tr>
-<tr><td align="center">🟡</td><td>Module 4: Networking & Protocols</td><td align="center"><b>In Progress</b></td></tr>
+<tr><td align="center">🟡</td><td>Module 3: Networking & Protocols</td><td align="center"><b>In Progress</b></td></tr>
+<tr><td align="center">⏭️</td><td>Module 4: Windows Internals & PowerShell</td><td align="center"></td></tr>
 <tr><td align="center">⚪</td><td>Module 5: Python for Cybersecurity</td><td align="center">Upcoming</td></tr>
 <tr><td align="center">⚪</td><td>Modules 6-8: Git & Portfolio, Cryptography, Web Security & OWASP Top 10</td><td align="center">Upcoming</td></tr>
 <tr><td align="center">⚪</td><td>Modules 9-10: Active Directory, SOC & SIEM</td><td align="center">Upcoming</td></tr>
@@ -183,7 +183,7 @@ status: open_to_internships
 | Area | Progress |
 |---|---|
 | 🟨 **JavaScript, Node.js & Express.js** | Client-side and server-side scripting for backend development |
-| 🌐 **Networking & Protocols** | Bootcamp Module 4: TCP/IP, DNS, HTTP/HTTPS, Wireshark, Nmap |
+| 🌐 **Networking & Protocols** | Bootcamp Module 3: TCP/IP, DNS, HTTP/HTTPS, Wireshark, Nmap |
 | 🖥️ **Bash** | Building projects, including a system monitoring script |
 | 🏴 **CTFs: OverTheWire Bandit** | 12/34 levels solved, with a detailed public writeup for each |
 | 🎯 **TryHackMe** | Pre-Security path in progress |
@@ -198,7 +198,7 @@ status: open_to_internships
 <td colspan="2" valign="top">
 
 **🤖 CareerOS AI** &nbsp;🏆 *Bano Qabil Hackathon, regional selected*
-<br><sub>Python · FastAPI · Google Gemini · Multi-Agent · HTML/CSS/JS</sub>
+<br><sub>Python  · Google Gemini · Multi-Agent · HTML/CSS/JS</sub>
 
 A multi-agent career intelligence platform that gives evidence-based career guidance by analyzing your resume, GitHub profile, and target job requirements.
 
@@ -250,7 +250,7 @@ Full-stack MIS for FIRs, staff, funds, and case tracking, deployed live for non-
 <td width="50%" valign="top">
 
 **☁️ Cloud-Init / YAML / Butane Writeups**
-<br><sub>YAML · Cloud-Init · Butane · Ignition</sub>
+<br><sub>YAML · Cloud-Init · Butane · Ignition (Just Start for LFX open source )</sub>
 
 Notes and working examples on core directives (users, write_files, packages, runcmd, systemd units), plus a partial **Cloud-Init → Butane mapping reference**.
 
@@ -321,11 +321,11 @@ My personal portfolio site and a collection of Python practice projects.
 
 **Short-term targets**
 
-- 🎯 Build and ship backend projects with Node.js + Express and FastAPI
+- 🎯 Build and ship backend projects with Node.js + Express 
 - 🎯 Complete the 24-week cybersecurity bootcamp (target: March 2027)
-- 🎯 Finish OverTheWire Bandit and the TryHackMe Pre-Security path
+- 🎯 Finish OverTheWire Bandit and the Hack the Box Pre-Security path
 - 🎯 Land an internship in backend / security / networking
-- 🎯 Contribute to an open-source CNCF or security project
+- 🎯 Contribute to an open-source CNCF , security project or LFX 
 
 <br>
 
