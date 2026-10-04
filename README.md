@@ -321,7 +321,7 @@ My personal portfolio site and a collection of Python practice projects.
 
 **Short-term targets**
 
-- 🎯 Build and ship backend projects with Node.js + Express 
+-  Build and ship backend projects with Node.js + Express 
 - 🎯 Complete the 24-week cybersecurity bootcamp (target: March 2027)
 - 🎯 Finish OverTheWire Bandit and the Hack the Box Pre-Security path
 - 🎯 Land an internship in backend / security / networking
