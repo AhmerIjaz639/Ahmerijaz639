@@ -28,7 +28,7 @@
 
 ### `01.` About Me
 
-I'm a **CCNA-certified** computer science student from **Lahore, Pakistan**, in my 4th semester of **BS Computer Science at COMSATS University Islamabad (Lahore Campus)**. My main path is **backend development**, and I'm building a strong security foundation alongside it.
+I'm a **CCNA-certified** computer science student from **Lahore, Pakistan**, in my 5th semester of **BS Computer Science at COMSATS University Islamabad (Lahore Campus)**. My main path is **backend development**, and I'm building a strong security foundation alongside it.
 
 My philosophy is simple: you can't secure what you don't understand how to build, and you can't build securely without understanding how it breaks. So I do both. I build database-backed apps with parameterized queries and environment-based secrets, I'm learning **Node.js + Express**, and I'm running a self-directed **24-week, 21-module cybersecurity bootcamp**.
 
