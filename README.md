@@ -47,7 +47,7 @@ Everything I learn is **documented publicly on GitHub**: CTF writeups, bootcamp 
 name: Ahmer Ijaz
 role: Backend Developer
 base: Lahore, Pakistan
-education: BS CS @ COMSATS (Sem 4)
+education: BS CS @ COMSATS (Sem 5)
 certified: CCNA (Cisco, 2026)
 ambassador:
   - AI+compassion
