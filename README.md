@@ -104,7 +104,7 @@ status: open_to_internships
 
 | Skill | Level | Notes |
 |---|---|---|
-| 🐍 **Python** | `▰▰▰▱▱` Beginner → Intermediate | FastAPI backends, CareerOS AI, automation, security scripting |
+| 🐍 **Python** | `▰▰▰▱▱` Beginner → Intermediate |  CareerOS AI, Numpy, Pandas , OOP |
 | ☕ **Java** | `▰▰▰▰▱` Intermediate | OOP and DSA (BS coursework + projects): queues, stacks, linked lists |
 | 🖥️ **Bash** | `▰▰▰▱▱` Intermediate | Building projects, including a system monitoring script |
 | 🗄️ **SQL / MySQL** | `▰▰▰▰▱` Intermediate | Normalization, views, triggers, stored procedures, parameterized queries |
