@@ -296,6 +296,9 @@ My personal portfolio site and a collection of Python practice projects.
 <img width="97%" src="https://streak-stats.demolab.com?user=AhmerIjaz639&theme=dark&background=0b102600&ring=00D4FF&fire=FFD54A&currStreakLabel=FFD54A&sideLabels=00D4FF&currStreakNum=ffffff&sideNums=ffffff&dates=9ec5d6&border=1b2a6b&border_radius=10"/>
 
 </div>
+##  Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmerIjaz639&layout=donut&theme=tokyonight)
 
 <br>
 
