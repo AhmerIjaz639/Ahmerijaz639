@@ -341,7 +341,9 @@ My personal portfolio site and a collection of Python practice projects.
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-14213d?style=for-the-badge&logo=tryhackme&logoColor=FFD54A)](https://tryhackme.com/p/YOUR-THM-USERNAME)
 [![Email](https://img.shields.io/badge/Email-14213d?style=for-the-badge&logo=gmail&logoColor=FFD54A)](mailto:ahmerijaz639@gmail.com)
 
-![GitHub Stats](https://api.gitwidgets.dev/api?username=AhmerIjaz639&type=stats&theme=dark)
+
+
+
 
 📍 Lahore, Pakistan &nbsp;•&nbsp;  COMSATS University, Lahore Campus &nbsp;•&nbsp; 🟢 Open to internships
 
