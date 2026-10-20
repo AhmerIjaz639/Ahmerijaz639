@@ -5,7 +5,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1200&color=c1121f&center=true&vCenter=true&random=false&width=720&lines=Building+Backends+with+Node.js;Learning+Networking+%2B+Linux+%2B+Security;Hackathon+Builder+%E2%80%A2+Regional+Selected+%F0%9F%8F%86;Open+Source+Enthusiast+%E2%80%A2+CNCF+Curious;Documenting+Everything+in+Public)](https://git.io/typing-svg)
+[[Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1200&color=c1121f&center=true&vCenter=true&random=false&width=720&lines=Building+Backends+with+Node.js;Learning+Networking+%2B+Linux+%2B+Security;Hackathon+Builder+%E2%80%A2+Regional+Selected+%F0%9F%8F%86;Open+Source+Enthusiast+%E2%80%A2+CNCF+Curious;Documenting+Everything+in+Public)](https://git.io/typing-svg)
 
 <br>
 
